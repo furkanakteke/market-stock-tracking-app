@@ -1,0 +1,10 @@
+C:\Users\Furkan\source\repos\FurkanAktekeManavOdev\FurkanAktekeManavOdev\bin\Debug\FurkanAktekeManavOdev.exe.config
+C:\Users\Furkan\source\repos\FurkanAktekeManavOdev\FurkanAktekeManavOdev\bin\Debug\FurkanAktekeManavOdev.exe
+C:\Users\Furkan\source\repos\FurkanAktekeManavOdev\FurkanAktekeManavOdev\bin\Debug\FurkanAktekeManavOdev.pdb
+C:\Users\Furkan\source\repos\FurkanAktekeManavOdev\FurkanAktekeManavOdev\obj\Debug\FurkanAktekeManavOdev.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\FurkanAktekeManavOdev\FurkanAktekeManavOdev\obj\Debug\FurkanAktekeManavOdev.Form1.resources
+C:\Users\Furkan\source\repos\FurkanAktekeManavOdev\FurkanAktekeManavOdev\obj\Debug\FurkanAktekeManavOdev.Properties.Resources.resources
+C:\Users\Furkan\source\repos\FurkanAktekeManavOdev\FurkanAktekeManavOdev\obj\Debug\FurkanAktekeManavOdev.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\FurkanAktekeManavOdev\FurkanAktekeManavOdev\obj\Debug\FurkanAktekeManavOdev.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\FurkanAktekeManavOdev\FurkanAktekeManavOdev\obj\Debug\FurkanAktekeManavOdev.exe
+C:\Users\Furkan\source\repos\FurkanAktekeManavOdev\FurkanAktekeManavOdev\obj\Debug\FurkanAktekeManavOdev.pdb
